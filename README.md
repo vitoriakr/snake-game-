@@ -3,15 +3,15 @@ o jogo da cobrinha personalizado( com a cara da minha amada professora de técni
 
 <hr>
 
-<h1>Descrição</h1>
+<h2>Descrição</h2>
 O **Jogo da Cobrinha** (ou **Snake Game**) é um clássico dos videogames, onde o jogador controla uma cobra que deve comer alimentos que aparecem na tela. A cada comida que a cobra consome, ela cresce, tornando o jogo mais desafiador. O objetivo principal é evitar colisões e alcançar a maior pontuação possível.
 
-<h1>Objetivo</h1>
+<h2>Objetivo</h2>
 
 - Comer a comida: A cobra deve se mover até a comida que aparece aleatoriamente na tela. Cada comida consumida aumenta a pontuação e faz a cobra crescer em comprimento.
 - Evitar colisões: O jogador deve evitar que a cobra colida com as bordas da tela ou com o próprio corpo da cobra.
 
-<h1>Regras do Jogo</h1>
+<h2>Regras do Jogo</h2>
 
 1. Movimento da Cobra:
    - A cobra se move continuamente em uma direção até que o jogador mude a direção usando as teclas de controle (setas do teclado).
